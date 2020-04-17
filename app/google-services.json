@@ -1,0 +1,48 @@
+{
+  "project_info": {
+    "project_number": "173813972121",
+    "firebase_url": "https://amica-f411c.firebaseio.com",
+    "project_id": "amica-f411c",
+    "storage_bucket": "amica-f411c.appspot.com"
+  },
+  "client": [
+    {
+      "client_info": {
+        "mobilesdk_app_id": "1:173813972121:android:467e5dfce09e3038e50c08",
+        "android_client_info": {
+          "package_name": "com.example.amica"
+        }
+      },
+      "oauth_client": [
+        {
+          "client_id": "173813972121-2jbumorp3cc6ms6p29inkb601un7pls2.apps.googleusercontent.com",
+          "client_type": 1,
+          "android_info": {
+            "package_name": "com.example.amica",
+            "certificate_hash": "5b5f5efda116bb58298f95be990738c631ed263b"
+          }
+        },
+        {
+          "client_id": "173813972121-fimoij53n1egsi59eu8mh1rgm01hr888.apps.googleusercontent.com",
+          "client_type": 3
+        }
+      ],
+      "api_key": [
+        {
+          "current_key": "AIzaSyDdA1mVvKxRzCEBeXiC4oULTTYHf8amOWE"
+        }
+      ],
+      "services": {
+        "appinvite_service": {
+          "other_platform_oauth_client": [
+            {
+              "client_id": "173813972121-fimoij53n1egsi59eu8mh1rgm01hr888.apps.googleusercontent.com",
+              "client_type": 3
+            }
+          ]
+        }
+      }
+    }
+  ],
+  "configuration_version": "1"
+}

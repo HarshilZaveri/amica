@@ -1,0 +1,8 @@
+<resources>
+    <string name="app_name">amica</string>
+    <string name="signing_up_policy">By signing up , you agree with our terms of service and privacy policy </string>
+    <string name="No_posting_policy">We don\'t post anything to any platform</string>
+    <string name="facebook_app_id">552875098761076</string>
+    <string name="fb_login_protocol_scheme">fb552875098761076</string>
+
+</resources>
